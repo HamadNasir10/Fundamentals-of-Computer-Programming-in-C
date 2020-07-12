@@ -1,0 +1,54 @@
+Name=Hamad Nasir
+Section=BSCS-6C 
+
+Task1
+
+Step Down Refinement
+Top level outline
+Analyze liters and miles entered by user find their miles per liter seperately then find the overall average of miles per liter. 
+ 
+First Refinement
+Initialize variables
+Input the liters,miles,totalmiles,totalliters,miles per liter and average.
+Print a summary of miles and liters which will be input by user. 
+
+Second Refinement
+Initialize totalmiles to zero.
+Initialize totalliters to zero.
+
+Refine
+print liters entered.
+If liters entered is not equal to 1.
+If liters entered is equal to zero print nothing entered.
+Print miles entered.
+Print miles per liter entered.
+
+Apply while loop
+While to allow the user enter as many miles and liters as he wants.
+Find miles per liter of all the values entered.
+Find totalmiles and totalliters.
+Find average.
+Print average 
+Return 0.
+
+
+
+Pseudo Code
+
+initialize variables
+put initial values equal to zero
+print liter miles values
+if user inputs -1 print nothing entered
+using while find miles per liters of all the given
+then find total liter and miles
+find average miles per liter
+return 0
+
+
+
+
+
+
+
+
+
